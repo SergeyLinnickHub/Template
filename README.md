@@ -1,2 +1,2 @@
 # Template
-Webpack4 template
+HTML/CSS/JS Template for creation markups using Webpack4
